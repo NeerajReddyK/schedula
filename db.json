@@ -1,0 +1,70 @@
+{
+  "appointments": [
+    {
+      "id": "0b6e",
+      "date": "2024-21-26",
+      "slot": "10:00 AM - 10:15 AM",
+      "doctorId": 2
+    },
+    {
+      "id": "b0d7",
+      "date": "2024-10-28",
+      "slot": "12:00 PM - 12:15 PM",
+      "doctorId": 4,
+      "patientDetails": {
+        "fullName": "Neeraj",
+        "age": 32,
+        "gender": "Male",
+        "mobileNumber": "1234567890",
+        "weight": 21,
+        "problem": "dka;fkdafjdkfadfak",
+        "relationshipWithPatient": "Self"
+      }
+    },
+    {
+      "id": "cf13",
+      "date": "2024-10-27",
+      "slot": "10:00 AM - 10:15 AM",
+      "doctorId": 3,
+      "patientDetails": {
+        "fullName": "daklf;adjka`",
+        "age": 32,
+        "gender": "Male",
+        "mobileNumber": "1234567890",
+        "weight": 32,
+        "problem": "fasdklfa;kdfjafj;aladk",
+        "relationshipWithPatient": "Self"
+      }
+    },
+    {
+      "id": "49d6",
+      "date": "2024-10-28",
+      "slot": "10:00 AM - 10:15 AM",
+      "doctorId": 3,
+      "patientDetails": {
+        "fullName": "Neeraj",
+        "age": 21,
+        "gender": "Male",
+        "mobileNumber": "1234567890",
+        "weight": 50,
+        "problem": "Unable to state the problem",
+        "relationshipWithPatient": "Self"
+      }
+    },
+    {
+      "id": "cd68",
+      "date": "2024-10-28",
+      "slot": "12:00 PM - 12:15 PM",
+      "doctorId": 4,
+      "patientDetails": {
+        "fullName": "Neeraj Reddy",
+        "age": 21,
+        "gender": "Male",
+        "mobileNumber": "5842957248",
+        "weight": 432,
+        "problem": "akdfjaslja;lsafakjas",
+        "relationshipWithPatient": "Self"
+      }
+    }
+  ]
+}
